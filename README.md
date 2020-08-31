@@ -1,2 +1,3 @@
 # Primele-componente
 componente tip sablon
+sau sabloane pentru web-development...
